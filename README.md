@@ -1,7 +1,7 @@
 # Tugas_Besar_Sistem_Tertanam
 <br/>Sistem Monitoring Minuman Menggunakan Sensor Suhu MLX90614 Dan Sensor Ultrasonik
 
-# Kelompok 11
+# Kelompok_9
 <br/>Rian Andri Waskito - 119140030
 <br/>Putu Ary Kusuma Yudha - 119140098
 <br/>Rahmad Sidiq - 119140096
